@@ -21,6 +21,9 @@ header {
 .navbar img {
   height: 50px;
 }
+.navbar img:hover{
+  cursor: pointer;
+}
 .menu {
   display: flex;
   gap: 20px;

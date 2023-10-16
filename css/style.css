@@ -29,6 +29,9 @@ header {
 .menu li a {
   text-decoration: none;
 }
+.menu li a:hover{
+  color: red;
+}
 hr {
   height: 2px;
   border: none;

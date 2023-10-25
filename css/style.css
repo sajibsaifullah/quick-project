@@ -31,6 +31,7 @@ header {
 }
 .menu li a {
   text-decoration: none;
+  color: black;
 }
 .menu li a:hover{
   color: #008aff;

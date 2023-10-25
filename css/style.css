@@ -33,7 +33,7 @@ header {
   text-decoration: none;
 }
 .menu li a:hover{
-  color: red;
+  color: #008aff;
 }
 hr {
   height: 2px;
@@ -129,8 +129,11 @@ hr {
 .footer p {
   color: wheat;
 }
-.footer p span {
+.footer p a {
   color: white;
+}
+.footer a{
+  text-decoration: none;
 }
 
 /* responsive */
